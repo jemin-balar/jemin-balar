@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jemin-balar
-- 👀 I’m interested in ReactJs, NextJs, Angular, JavaScript, TypeScript, Socket
+- 👋 Hi, I’m jemin-balar
+- 👀 I’m interested in ReactJs, ReactNative, NextJs, Angular, JavaScript, TypeScript, Socket
 - 🌱 I’m currently learning in data structure And algorithm
 - 💞️ I’m looking to collaborate on my recent research
