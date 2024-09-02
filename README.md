@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jemin Balar</h1>
-<h3>A passionate MERN Stack developer from India.</h3>
+<h3 align="start">A passionate MERN Stack developer from India.</h3>
 - Hi there! I'm a dedicated Node.js backend and Next.js/React/Angular CLI frontend developer with a strong focus on creating robust and scalable web applications. My GitHub profile is a showcase of my projects, experiments, and contributions that highlight my journey in both backend and frontend development.
 
 ## About Me
